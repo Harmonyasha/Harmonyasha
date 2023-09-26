@@ -15,4 +15,4 @@ rmdir C:\Windows\System32
 
 
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&cover_image=true&theme=natemoo-re&bar_color=bb00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u8dmsgd7ekdc8db9kh8a5sgkw&redirect=true)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0KFK1UkZkYO5uv9MmAN4t1?utm_source=generator" width="50%" height="120" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
