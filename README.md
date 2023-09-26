@@ -12,7 +12,3 @@ rmdir C:\Windows\System32
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/dddaaa111222" alt="Profile Forks"></a>
 
 <a href="https://discordapp.com/users/407242708143570967" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/407242708143570967.png"/></a>
-
-
-  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0KFK1UkZkYO5uv9MmAN4t1?utm_source=generator" width="50%" height="120" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
