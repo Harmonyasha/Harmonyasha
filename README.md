@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://logout.space"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+OWLUNIVERSAL+%E2%98%A6;"></a>
+  <a href="https://github.com/OwlUniversal"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=232426&center=true&width=1200&height=140&lines=%E2%98%A6+IM+OWLUNIVERSAL+%E2%98%A6;"></a>
 </p>
 
 ```sh-session
