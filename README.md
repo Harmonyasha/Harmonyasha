@@ -8,7 +8,7 @@ rmdir C:\Windows\System32
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dddaaa111222" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/dddaaa111222" alt="Profile Forks"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OwlUniversal" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/OwlUniversal" alt="Profile Forks"></a>
 
 <a href="https://discordapp.com/users/407242708143570967" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/407242708143570967.png"/></a>
