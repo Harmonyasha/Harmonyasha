@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Harmonyasha"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=B300F7&width=435&lines=%EA%80%A4%EA%8E%AD+%EA%83%85%EA%8D%8F%EA%8B%AA%EA%8E%AD%EA%82%A6%EA%88%A4%EA%8C%A9"></a>
+  <a href="https://github.com/Harmonyasha"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=B300F7&width=435&lines=%EA%80%A4%EA%8E%AD+%EA%83%85%EA%8D%8F%EA%8B%AA%EA%8E%AD%EA%82%A6%EA%88%A4%EA%8C%A9" alt="Typing SVG" /></a>
 </p>
 
 ```sh-session
