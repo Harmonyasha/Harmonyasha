@@ -38,6 +38,6 @@
   <!-- Discord Section -->
   <p align="center"><b>Contact with me on Discord</b></p>
   <a href="https://discordapp.com/users/407242708143570967" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-1/407242708143570967.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/407242708143570967.png"/>
   </a>
 </div>
